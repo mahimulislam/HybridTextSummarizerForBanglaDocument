@@ -15,4 +15,4 @@ On both cases,our system performed better in terms of f-measure.
 
 Please check our presentation to get the overview of what we did.
 And the soft copy of our book is also available.
-To download the resources we have used here , please check out this link https://github.com/mahimulislam/mahimulislam-ResourcesHybridTextSummarization-
+To download the resources we have used here , please check out this link https://github.com/mahimulislam/ResourcesHybridTextSummarization
