@@ -1,4 +1,4 @@
-# HybridTextSummarizerForBanglaDocuments
+# HybridTextSummarizerForBanglaDocument
 
 This is our Bachelor's thesis.  We have tried to explore a new method for the generation of summary from Bengali documents. We had to consider all the major sentences present in the document. If the summary contains sentences from all the major topics present in the document, that has a better
 chance of giving better perspective of the document. Our summary generation approach is
